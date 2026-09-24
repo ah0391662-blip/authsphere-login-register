@@ -1,0 +1,6 @@
+{
+  "name": "AuthSphere - Modern Authentication",
+  "description": "A sleek, responsive authentication web application featuring intuitive Login and Register flows with client-side validation and password controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
